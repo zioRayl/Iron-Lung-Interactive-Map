@@ -6,6 +6,9 @@ This tool lets you open the map in a browser, set your current position, choose 
 
 It is designed to work entirely **offline** as a local HTML file, and it can also be uploaded to simple static hosting services such as **Altervista**.
 
+<img width="2557" height="1283" alt="immagine" src="https://github.com/user-attachments/assets/4c2fe62b-d7e5-4a37-90a1-a6e427041b21" />
+
+
 ## What this page is
 
 This project is a browser-based navigation helper for the **AT-5 Trench** area.
